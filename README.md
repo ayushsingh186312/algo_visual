@@ -8,7 +8,7 @@
 
 ### This is built using HTML, CSS, JavaScript <br/>
 
-[Check out the website here](https://ayushsingh186312.github.io/algo-visual/)
+[Check out the website here](https://ayushsingh186312.github.io/algo_visual/)
 
 <img src="img/img1.png"> <br/>
 <img src="img/img2.png"> <br/>
